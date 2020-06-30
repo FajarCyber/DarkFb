@@ -59,14 +59,12 @@ echo "   $blue [           $red FACEBOOK  : ?????????? ???????????     $blue ]"
 echo "   $blue [            $red GITHUB : HTTPS://GITHUB.COM/TIME EROR $blue ]"
 echo "   $blue [                  $red SCRIPT : BY TIME EROR           $blue ]"
 echo "$blue [»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»]"
-echo "$lightblue SILAKAN PILIH MENU HACK FB"
+echo "$green SILAKAN PILIH MENU HACK FB"
 echo
-echo "\e[1;34m SILAKAN PILIH MENU HACK FB"
-
-echo "\e[1;34m 1.CRACK DARI TEMAN [TARGET]"
-echo "\e[1;34m 2.CRACK DARI GRUPP"
-echo "\e[1;34m 3.BRUTEFORCE"
-echo "\e[1;34m 4.MULTI BRUTEFORCE [TARGET]"
+echo "$green 1.CRACK DARI TEMAN [TARGET]"
+echo "$green 2.CRACK DARI GRUPP"
+echo "$green 3.BRUTEFORCE"
+echo "$green 4.MULTI BRUTEFORCE [TARGET]"
 echo
 read -p "PILIH : " read tr
 
