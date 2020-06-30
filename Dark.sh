@@ -12,7 +12,7 @@ lightgreen='\e[1;32m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 
-figlet -f slant "$red DARK FB"             
+figlet -f slant "DARK FB" | lolcat            
 echo
 echo "$blue [»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»]"
 echo "   $blue [                  $red AUTHOR : TIME EROR              $blue ]"
